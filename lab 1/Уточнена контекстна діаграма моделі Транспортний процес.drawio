@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.7.10">
+  <diagram name="Page-1" id="KJrM5TN6bMcuwBst2HIF">
+    <mxGraphModel dx="1194" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dGLcqxDbYT8Q7OqdNw-I-41" value="Відвантаження і отримання" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dGLcqxDbYT8Q7OqdNw-I-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dGLcqxDbYT8Q7OqdNw-I-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="220" as="sourcePoint" />
+            <mxPoint x="460" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dGLcqxDbYT8Q7OqdNw-I-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="259.58" as="sourcePoint" />
+            <mxPoint x="280" y="259.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dGLcqxDbYT8Q7OqdNw-I-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="300" as="sourcePoint" />
+            <mxPoint x="280" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dGLcqxDbYT8Q7OqdNw-I-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="220" as="sourcePoint" />
+            <mxPoint x="680" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dGLcqxDbYT8Q7OqdNw-I-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="259.58" as="sourcePoint" />
+            <mxPoint x="680" y="259.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dGLcqxDbYT8Q7OqdNw-I-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="300" as="sourcePoint" />
+            <mxPoint x="680" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dGLcqxDbYT8Q7OqdNw-I-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="90" as="sourcePoint" />
+            <mxPoint x="379.58" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="379.58" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dGLcqxDbYT8Q7OqdNw-I-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.4;exitY=-0.026;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379.58" y="437" as="sourcePoint" />
+            <mxPoint x="379.58" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="379.58" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dGLcqxDbYT8Q7OqdNw-I-51" value="правила процедури стандарти" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dGLcqxDbYT8Q7OqdNw-I-52" value="система оформлення замовлень" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dGLcqxDbYT8Q7OqdNw-I-53" value="компоненти від постачальника" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dGLcqxDbYT8Q7OqdNw-I-54" value="готові комп&#39;ютери" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dGLcqxDbYT8Q7OqdNw-I-56" value="несправні компоненти" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dGLcqxDbYT8Q7OqdNw-I-57" value="компоненти" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dGLcqxDbYT8Q7OqdNw-I-58" value="продані продукти" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dGLcqxDbYT8Q7OqdNw-I-59" value="повернення постачальнику" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
